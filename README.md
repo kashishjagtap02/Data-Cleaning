@@ -4,7 +4,6 @@
 
 This project focuses on cleaning and preprocessing the Airbnb NYC 2019 dataset using Python and Pandas. The objective is to identify and handle missing values, validate data types, detect duplicate records, identify outliers, and prepare the dataset for further analysis and visualization.
 
-This project was completed as part of the **Oasis Infobyte Data Analytics Internship**.
 
 ---
 
@@ -117,7 +116,7 @@ The following visualizations were created:
 ## 📁 Project Structure
 
 ```
-OIBSIP-Data-Cleaning/
+Data-Cleaning/
 │
 ├── Airbnb_Data_Cleaning.ipynb
 ├── AB_NYC_2019.csv
@@ -146,4 +145,4 @@ OIBSIP-Data-Cleaning/
 
 **Kashish Jagtap**
 
- **Oasis Infobyte Data Analytics Intern**
+ 
